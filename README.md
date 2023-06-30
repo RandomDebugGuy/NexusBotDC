@@ -15,6 +15,16 @@ Before running the bot, make sure to set up the `config.json` file with the foll
 - `serverId`: ID of the Discord server where the bot will operate.
 - `generalChannelId`: ID of the general channel where the bot will send messages.
 
+# Globally Defined Names for code:
+
+- `prefix`: Command prefix for your bot.
+- `serverId`: ID of the server your bot will operate in.
+- `ownerRoleId`: ID of the role representing the bot owner.
+- `staffRoleId`: ID of the role representing the staff members.
+- `moderatorRoleId`: ID of the role representing the moderators.
+- `memberRoleId`: ID of the role representing regular members.
+- `generalChannelId`: ID of the general channel in your server.
+
 Make sure to replace the placeholder values with your actual IDs.
 
 ## Bot Events
@@ -30,5 +40,8 @@ module.exports = {
   execute(message, client) {
     console.log(`Message received: ${message.content}`);
     // Add your desired functionality here
+  },
+};
+
   },
 };

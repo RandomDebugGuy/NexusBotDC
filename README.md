@@ -42,7 +42,7 @@ module.exports = {
     // Add your desired functionality here
   },
 };
-```javascript
+```
 
 # Contact and credits
 RandomDebugGuy: Owner and developer of the bot 

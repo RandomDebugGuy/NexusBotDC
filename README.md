@@ -15,7 +15,7 @@ Before running the bot, make sure to set up the `config.json` file with the foll
 - `serverId`: ID of the Discord server where the bot will operate.
 - `generalChannelId`: ID of the general channel where the bot will send messages.
 
-Globally Defined Names for code:
+# Globally Defined Names for code:
 
 - `prefix`: Command prefix for your bot.
 - `serverId`: ID of the server your bot will operate in.
@@ -39,6 +39,14 @@ module.exports = {
   once: false,
   execute(message, client) {
     console.log(`Message received: ${message.content}`);
+    // Add your desired functionality here
+  },
+};
+```javascript
+
+# Contact and credits
+RandomDebugGuy: Owner and developer of the bot 
+  Contact me on Discord! I'm `ancheplayzdc#0`
     // Add your desired functionality here
   },
 };

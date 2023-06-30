@@ -15,7 +15,7 @@ Before running the bot, make sure to set up the `config.json` file with the foll
 - `serverId`: ID of the Discord server where the bot will operate.
 - `generalChannelId`: ID of the general channel where the bot will send messages.
 
-# Globally Defined Names for code:
+Globally Defined Names for code:
 
 - `prefix`: Command prefix for your bot.
 - `serverId`: ID of the server your bot will operate in.

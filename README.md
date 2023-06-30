@@ -47,9 +47,3 @@ module.exports = {
 # Contact and credits
 RandomDebugGuy: Owner and developer of the bot 
   Contact me on Discord! I'm `ancheplayzdc#0`
-    // Add your desired functionality here
-  },
-};
-
-  },
-};

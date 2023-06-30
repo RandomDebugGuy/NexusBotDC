@@ -1,6 +1,6 @@
-# Discord Bot
+# NexusBot
 
-This is a Discord bot that uses a JavaScript API linker. It allows you to configure various settings and execute commands based on user input.
+NexusBot is a Discord JavaScript API linker. It allows you to use custom-written commands, and execute actons if 
 
 ## Configuration
 

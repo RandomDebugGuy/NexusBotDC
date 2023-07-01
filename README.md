@@ -15,6 +15,8 @@ Before running the bot, make sure to set up the `config.json` file with the foll
 - `serverId`: ID of the Discord server where the bot will operate.
 - `generalChannelId`: ID of the general channel where the bot will send messages.
 
+Put your commands/bot events in their respective folders and run npm run start, thats it!
+
 # Globally Defined Names for code:
 
 - `prefix`: Command prefix for your bot.
@@ -31,7 +33,7 @@ Make sure to replace the placeholder values with your actual IDs.
 
 The `botevent` folder contains files that define various bot events. One of the included files is `messageCreate.js`, which triggers when a message is sent in any channel.
 
-Here's an example implementation of `messageCreate.js`:
+Here's an example implementation of `consoleMessageLogger.js`:
 
 ```javascript
 module.exports = {

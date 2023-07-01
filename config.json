@@ -1,0 +1,11 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "!",
+    "server_id": "YOUR_SERVER_ID",
+    "owner_role_id": "YOUR_OWNER_ROLE_ID",
+    "staff_role_id": "YOUR_STAFF_ROLE_ID",
+    "moderator_role_id": "YOUR_MODERATOR_ROLE_ID",
+    "member_role_id": "YOUR_MEMBER_ROLE_ID",
+    "general_channel_id": "YOUR_GENERAL_CHANNEL_ID"
+  }
+  

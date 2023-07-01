@@ -1,6 +1,6 @@
 # NexusBot
 
-NexusBot is a Discord JavaScript API linker. It allows you to use custom-written commands, and execute actons if 
+NexusBot is a Discord JavaScript API. It allows you to use custom-written commands, and execute actions when found!
 
 ## Configuration
 

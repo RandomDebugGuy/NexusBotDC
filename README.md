@@ -49,4 +49,4 @@ module.exports = {
 # Contact and credits
 RandomDebugGuy: Owner and developer of the bot
 
-  Contact me on Discord! I'm `ancheplayzdc#0`
+  Contact me on Discord! I'm `ancheplayzdc` and my Discord server is <https://discord.gg/KeQs35Mnv8>

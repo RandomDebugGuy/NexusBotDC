@@ -15,7 +15,7 @@ Before running the bot, make sure to set up the `config.json` file with the foll
 - `serverId`: ID of the Discord server where the bot will operate.
 - `generalChannelId`: ID of the general channel where the bot will send messages.
 
-Put your commands/bot event Javascript files in their respective folders and run `npm run start`, thats it!
+Put your custom commands/bot event Javascript files in their respective folders and run `npm run start`, thats it!
 
 # Globally Defined Names for code:
 
